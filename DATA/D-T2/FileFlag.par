@@ -1,0 +1,16 @@
+Flags for experiment SSE-CPMG 
+%
+  FL_typeKernel         =3
+  FL_InversionTimeLimits=0
+  FL_OutputData         =1
+  FL_NoContour          =10
+  FL_Verbose            =0
+  FL_Debug              =0
+  FL_Amp_scale          =1
+  FL_Scale_fact         =1
+  FL_T1T2Filter         =0
+  FL_EraseCol           =0
+  FL_EraseRow           =0
+  FL_Offset             =0
+  FL_Stat               =5
+END

@@ -1,0 +1,16 @@
+Filenames e parameters for experiment IR-CPMG 
+%
+% [File Data]
+  filenamedata          =s_VVdata.dat
+  filenameTimeX         =t_X.dat
+  filenameTimeY         =t_Y.dat
+% [Inversion Points]
+  nx                    =64
+  ny                    =64
+% [Inversion Time limits]
+  T1min                 =2.5000E-1
+  T1max                 =1.2649E4
+  T2min                 =1.2690E-1
+  T2max                 =4.1583E3
+%
+END

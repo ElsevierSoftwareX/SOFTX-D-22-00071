@@ -1,0 +1,35 @@
+Inversion Parameters for experiment SSE-CPMG 
+%
+%[Projected Gradient]
+  par.gpnr.tol          =1.0e-03
+  par.gpnr.maxiter      =1.0e+04
+%[Projected Newton]
+  par.nwtp.maxiter      =500
+  par.nwtp.tolrho       =1.0e-04
+%[Conjugate Gradient]
+  par.cgn2d.tol         =1.0e-06
+  par.cgn2d.maxiter     =1.0e+05
+%
+%[VARIOUS]
+%[SVD]
+  par.svd.svd           =1
+  par.svd.soglia        =1.0e-16
+%
+%[UPEN]
+  par.upen.tol          =1.0e-04
+  par.upen.iter         =100000
+  par.upen.tol_res      =1.0e-08
+  par.upen.beta00       =1.0e+00
+  par.upen.beta0        =1.0e-07
+  par.upen.beta_p       =1.0e+0
+  par.upen.beta_c       =1.0e+0
+%
+%[FISTA]
+  par.fista.maxiter     =1.0e+05
+  par.fista.tol         =1.0e-07
+  par.fista.weight      =2.0e+00
+%
+%[TIKHONOV]
+  par.tikh.lambda       =5.0e-01
+%
+END

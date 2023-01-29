@@ -1,0 +1,25 @@
+--------------------------------------------------------------------------------------------------------- 
+MUpen2D Input Parameters 
+ upen_tol=1.000000e-04,
+ Projected Gradient Tol =1.000000e-04 
+SVD Threshold =1e-16 
+   Data size= 48 x 80  
+---------------------------------------------------------------------------------------------------------
+Number of Inversion channels:  horizontal 80, vertical  80 
+Final Relative Residual Norm =2.3211e-02 
+Total MUpen2D Iterations = 9
+Total FISTA Iterations = 10542 
+Computation Time = 3.62219 s.
+---------------------------------------------------------------------------------------------------------
+MUpen2D - T2=19.55 T1=112.37 peak=280.87  PercTot=85.48  
+MUpen2D - (T2= 16.90 19.55 22.62, T1 = 97.13 112.37 129.99) 
+
+===================================================================
+    Statistical Analysis 
+ Normal  Distribution : mu = -2.033376e-02,  sigma = 3.101324e+01 
+ 75th percentile = 2.051574e+01 
+ median          = 2.124887e-01 
+ 25th percentile = -2.034167e+01 
+ skewness = -3.587174e-02, kurtosis = 3.369759e+00 
+
+===================================================================

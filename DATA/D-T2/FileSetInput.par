@@ -1,0 +1,16 @@
+Filenames e parameters for experiment SSE-CPMG 
+%
+% [File Data]
+  filenamedata          =Data2D.dat
+  filenameTimeX         =T2Axis.dat
+  filenameTimeY         =DiffAxis.dat
+% [Inversion Points]
+  nx                    =80
+  ny                    =80
+% [Inversion Time limits]
+  T1min                 =1.0e-02
+  T1max                 =1.0e+02
+  T2min                 =1.0e-01
+  T2max                 =1.0e+02
+%
+END
